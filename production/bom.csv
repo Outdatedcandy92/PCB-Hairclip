@@ -1,0 +1,10 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+BT1,BAT-SMD_MY-2450-01,1,Battery_Cell,C964845
+"C1, C2, C3",0402,3,100nF,
+"C4, C5",0402,2,10uF,
+"D1, D2, D3, D4, D5, D6, D7",0402,7,LED,
+"R1, R2",0402,2,10K,
+R3,0402,1,1K,
+"TP1, TP2, TP3",TestPoint_Pad_D3.0mm,3,TestPoint,
+U1,VQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm,1,ATtiny816-M,
+U2,LGA-12_L2.0-W2.0-P0.50-BL,1,LIS2DH12TR,C110926
